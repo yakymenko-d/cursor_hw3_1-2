@@ -1,0 +1,27 @@
+body{
+	margin: 0;
+	width: 1600px;
+}
+header{
+	height: 97px;
+}
+.container{
+	display: flex;
+}
+.third{
+	display: flex;
+}
+.fuel{
+	display: flex;
+	height: 443px;
+}
+.all{
+	display: flex;
+	height: 520px;
+}
+.fourth{
+	height: 97px;
+}
+.diagram{
+	height: 577px;
+}
